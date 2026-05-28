@@ -1,4 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Akanksha Singh
+
+🎓 3rd Year BTech Student at IET DAVV  
+💻 Web Developer  
+🚀 Currently working on student-focused platforms like Dormly  
+🌱 Learning Full Stack Development and Open Source  
+
+---
+
+## 🛠 Skills
+- HTML
+- CSS
+- JavaScript
+- MongoDB
+- Bootstrap
+- Tailwind CSS
+- working on DSA
+  
+
+---
+
+## 📌 Projects
+- Dormly
+
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Akankshamarko
+- linkdin:https://www.linkedin.com/in/akanksha-singh-marko
+
 
 <!--
 **Akankshamarko/Akankshamarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
