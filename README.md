@@ -20,7 +20,7 @@
 ---
 
 ## 📌 Projects
-- Dormly
+-skin Analyzer
 
 
 ---
