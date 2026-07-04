@@ -20,7 +20,7 @@
 ---
 
 ## 📌 Projects
--skin Analyzer
+-skin Analyzer(Derma blueprint)
 
 
 ---
