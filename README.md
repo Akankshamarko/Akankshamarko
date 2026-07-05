@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akanksha Singh
 
-🎓 3rd Year BTech Student at IET DAVV  
+🎓 Final Year BTech Student at IET DAVV  
 💻 Web Developer  
 🚀 Currently working on student-focused platforms like Dormly  
 🌱 Learning Full Stack Development and Open Source  
