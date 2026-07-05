@@ -27,7 +27,7 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Akankshamarko
-- linkdin:https://www.linkedin.com/in/akanksha-singh-marko
+- linkdin:https:https://www.linkedin.com/in/akanksha-singh-marko-60b00729a/
 
 
 <!--
