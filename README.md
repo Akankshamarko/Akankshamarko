@@ -10,7 +10,7 @@
 ## 🛠 Skills
 - HTML
 - CSS
-- JavaScript
+- JavaScript 
 - MongoDB
 - Bootstrap
 - Tailwind CSS
